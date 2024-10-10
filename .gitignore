@@ -1,0 +1,6 @@
+env
+runs
+data
+*.pt
+*.pyc
+
